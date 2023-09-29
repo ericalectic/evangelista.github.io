@@ -1,0 +1,40 @@
+
+
+main {
+    text-align: left;
+    background-color: #14213D;
+    max-width: 500px;
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.5);
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  body {
+    text-align: center;
+    background: #3AAFA9;
+    color: #17252A;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+  }
+  
+  textarea, select, button {
+    width: 100%;
+    background: #FFFFFF;
+    color: #17252A;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    box-sizing: border-box; /* Adjusted box-sizing property */
+  }
+  
+  a {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 10px;
+  }
+  
